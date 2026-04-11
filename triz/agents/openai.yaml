@@ -1,0 +1,4 @@
+interface:
+  display_name: "TRIZ"
+  short_description: "Short-form TRIZ with explicit discipline"
+  default_prompt: "Use $triz and answer with contradiction, engineering IFR, usable resource, concrete move, and contradiction-removing fast test before any extra detail."

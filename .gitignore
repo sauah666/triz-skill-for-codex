@@ -1,0 +1,16 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.tmp
+*.log
+__pycache__/
+*.pyc
+.pytest_cache/
+node_modules/
+dist/
+build/
+coverage/
+*.orig
