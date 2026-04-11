@@ -16,6 +16,10 @@ No. It is useful anywhere the team is stuck in a tradeoff and needs a discipline
 
 No. The skill is intentionally short and uses a fixed output ladder, so it should still be usable on compact worker models and smaller reasoning budgets.
 
+## How do I install it?
+
+Copy or clone the `triz/` folder into your Codex skills directory, then restart Codex. There is no package manager step and no build step.
+
 ## What does the MIT license allow?
 
 Basically: use it, change it, share it, and build on it. Keep the license notice and understand that there is no warranty.

@@ -89,6 +89,24 @@ If you open a PR, keep it small and explain what changed and why.
 
 Place the `triz/` folder where Codex discovers skills, then ask for it directly.
 
+## Installation
+
+This repo is not a package with a build step. To install the skill, copy or clone the `triz/` folder into your Codex skills directory.
+
+Typical location on Windows:
+
+```text
+C:\Users\<you>\.codex\skills\triz
+```
+
+Typical location on macOS or Linux:
+
+```text
+~/.codex/skills/triz
+```
+
+After the folder is in place, restart Codex so it picks up the new skill. Then call it with `[$triz](./triz/SKILL.md)` or ask for TRIZ-style problem solving directly.
+
 Examples:
 
 ```text
