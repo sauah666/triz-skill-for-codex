@@ -1,5 +1,9 @@
 # FAQ
 
+## What is TRIZ?
+
+TRIZ is the Theory of Inventive Problem Solving. It is a systematic method for finding better solutions by working from contradictions, ideality, and system resources instead of random brainstorming or endless trial and error.
+
 ## What problem does this skill solve?
 
 It helps when the real issue is a contradiction: improving one thing makes another thing worse. That shows up in design, architecture, product, process, and service work all the time.

@@ -1,6 +1,21 @@
-# TRIZ Skill for Codex
+# TRIZ Dilemma Solver
 
-This repository packages a Codex skill for solving hard product, engineering, process, service, and strategy problems with TRIZ-style inventive thinking.
+A TRIZ-based skill for hard product, engineering, process, service, and strategy problems. It exposes contradictions, defines the ideal result, uses existing resources, and finds cleaner solution paths instead of compromise.
+
+## About
+
+TRIZ is the Theory of Inventive Problem Solving. It is a systematic method for solving hard problems without random brainstorming or endless trial and error. The method was developed by Genrich Altshuller and refined by later TRIZ researchers and training organizations.
+
+This skill is useful when the obvious fix makes something else worse. It helps you surface the contradiction, define the ideal outcome, use the resources already inside the system, and turn deadlocks into concrete, testable solution moves.
+
+## Product promise
+
+When a normal fix creates a new problem, this skill will:
+
+- expose the contradiction
+- define the ideal result
+- use resources already inside the system
+- propose cleaner, testable moves instead of compromise
 
 ## What this is for
 
@@ -177,6 +192,8 @@ This skill is a synthesis of classical and training-oriented TRIZ material. The 
 People looking for this repo may search for:
 
 - TRIZ
+- TRIZ Dilemma Solver
+- Theory of Inventive Problem Solving
 - contradiction-first problem solving
 - Ideal Final Result
 - resource analysis

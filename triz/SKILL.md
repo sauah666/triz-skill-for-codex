@@ -1,8 +1,8 @@
 ---
 name: triz
-description: Use when the user wants to solve a hard design, engineering, process, service, or strategy problem with TRIZ/ТРИЗ; expose technical or physical contradictions; define the Ideal Final Result (IFR); map resources; and force a short but explicit ladder of contradiction -> IFR -> resource -> move -> fast test.
+description: Use when the user wants to solve a hard design, engineering, process, service, or strategy dilemma with TRIZ/ТРИЗ; expose technical or physical contradictions; define the Ideal Final Result (IFR); map resources; and force a short but explicit ladder of contradiction -> IFR -> resource -> move -> fast test.
 metadata:
-  short-description: Solve hard problems with TRIZ
+  short-description: TRIZ Dilemma Solver
 ---
 
 # TRIZ

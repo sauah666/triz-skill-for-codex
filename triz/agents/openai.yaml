@@ -1,4 +1,4 @@
 interface:
-  display_name: "TRIZ"
-  short_description: "Short-form TRIZ with explicit discipline"
-  default_prompt: "Use $triz and answer with contradiction, engineering IFR, usable resource, concrete move, and contradiction-removing fast test before any extra detail."
+  display_name: "TRIZ Dilemma Solver"
+  short_description: "A TRIZ-based skill for contradictions, ideal results, and cleaner solution paths"
+  default_prompt: "Use $triz for hard product, engineering, process, service, or strategy problems. Expose the contradiction, define the ideal result, map existing resources, and give a concrete move plus a contradiction-removing fast test."
