@@ -13,6 +13,25 @@ TRIZ is most useful when a normal fix creates a new problem:
 
 The skill turns that tradeoff into a contradiction, then forces a short but explicit ladder: contradiction, IFR, resource, move, fast test.
 
+## Theory base
+
+This skill is not a fresh invention from scratch. It is a compact Codex-friendly synthesis of classical TRIZ and practitioner training material.
+
+The core TRIZ idea is simple: do not settle for a compromise if the system can be changed so the contradiction disappears or is separated by time, space, condition, or hierarchy.
+
+What this repo keeps from that theory:
+
+- contradiction-first framing
+- Ideal Final Result thinking
+- resource analysis before adding new parts
+- separation principles
+- Su-Field logic
+- trimming and idealization
+- trends of system evolution
+- a lightweight ARIZ-style sequence
+
+The short ladder in `triz/SKILL.md` is the execution layer on top of that theory base.
+
 ## Status
 
 This repository is a public experiment in making TRIZ usable inside a compact Codex skill. The goal is to keep the method disciplined without turning the trigger into a fat theory dump.

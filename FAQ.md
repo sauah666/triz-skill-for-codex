@@ -4,6 +4,10 @@
 
 It helps when the real issue is a contradiction: improving one thing makes another thing worse. That shows up in design, architecture, product, process, and service work all the time.
 
+## What is this based on?
+
+It is based on classical TRIZ: Altshuller-style contradiction analysis, Ideal Final Result thinking, resource use, separation principles, Su-Field logic, trimming, and system evolution patterns. The repo’s job is to compress that theory into a short Codex-ready workflow.
+
 ## Is this project an experiment?
 
 Yes. It is a public experiment in making TRIZ usable in a compact, worker-friendly Codex skill without losing method discipline.
