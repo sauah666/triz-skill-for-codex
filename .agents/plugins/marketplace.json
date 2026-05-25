@@ -1,0 +1,20 @@
+{
+  "name": "skills-creation-local",
+  "interface": {
+    "displayName": "Skills Creation Local"
+  },
+  "plugins": [
+    {
+      "name": "token-eco",
+      "source": {
+        "source": "local",
+        "path": "./plugins/token-eco"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+skill: Master_of_Illusion
+context_adapter_version: 1
+
+target_object:
+  object_type:
+  shape:
+  scale:
+  static_or_interactive:
+  platform:
+
+visual_goal:
+  intended_depth_reading:
+  intended_material_reading:
+  intended_emotional_tone:
+  intended_user_action:
+
+material:
+  material_family:
+  base_color:
+  roughness:
+  reflectivity:
+  translucency:
+  opacity:
+  thickness:
+  edge_behavior:
+  internal_scattering:
+  microtexture:
+  allowed_optical_effects:
+  forbidden_material_readings:
+
+scene:
+  background:
+  virtual_camera:
+  surface_plane:
+  light_direction:
+  shadow_direction:
+  color_temperature:
+
+interaction:
+  states:
+    - idle
+    - hover
+    - focus
+    - press
+    - drag
+    - release
+    - invalid
+    - reduced_motion
+  pointer_driven_effects:
+  motion_limits:
+
+implementation:
+  target_stack:
+  performance_budget:
+  asset_budget:
+  browser_support:
+  accessibility_requirements:
+  reduced_motion_requirements:
+
+constraints:
+  forbidden_aesthetics:
+  required_tone:
+  references:
+  notes:

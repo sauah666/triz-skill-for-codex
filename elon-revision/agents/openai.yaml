@@ -1,0 +1,4 @@
+interface:
+  display_name: "Elon Revision"
+  short_description: "First-principles project simplifier"
+  default_prompt: "Use $elon-revision to optimize this project by questioning requirements, removing waste, simplifying survivors, then speeding up and automating only what remains."
